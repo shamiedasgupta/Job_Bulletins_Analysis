@@ -10,9 +10,7 @@ import seaborn as sns
 plt.style.use('ggplot')
 
 
-# # set font
-# plt.rcParams['font.family'] = 'sans-serif'
-# plt.rcParams['font.sans-serif'] = 'Helvetica'
+
 
 # set the style of the axes and the text color
 plt.rcParams['axes.edgecolor']='#333F4B'
