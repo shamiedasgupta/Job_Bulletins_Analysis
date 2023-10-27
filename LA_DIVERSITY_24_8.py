@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 18 22:04:09 2023
 
-@author: manas
-"""
 
 
 import numpy as np # linear algebra
