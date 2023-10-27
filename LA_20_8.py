@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 
 def convert_jobs_to_df(
-        path="D:/Documents/placements\data-science-for-good-city-of-los-angeles/cityofla/CityofLA/Job Bulletins/*.txt",
+        path="D:/Documents/placements/data-science-for-good-city-of-los-angeles/cityofla/CityofLA/Job Bulletins/*.txt",
         raw_text_col_name='raw_job_text'):
     
     job_list=[]
